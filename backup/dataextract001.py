@@ -64,5 +64,5 @@ def main():
         print(df.head(len(tblcrane)))
 
 
-if __name__ == '__main__':
-    main()
+#if __name__ == '__main__':
+    #main()
